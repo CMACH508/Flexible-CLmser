@@ -69,6 +69,9 @@ We also provide our data (For EM only includes stack 1 and 4) and pretrained mod
 https://pan.baidu.com/s/1pHTexUIS8ganD_BwbWoAXA 
 password：sjtu
 
+or
+
+https://drive.google.com/drive/folders/1GJq-AV1L1UNhI2WNMDuynYyGtOYpjQEi?usp=sharing
 
 ## Training
 
