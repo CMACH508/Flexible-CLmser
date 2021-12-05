@@ -101,7 +101,7 @@ For MonuSeg and TNBC, you can just use our code to test the model, for example
 
 `python main.py --valid_data ./data/tnbc --valid_dataset tnbc --exp your_experiment_id --alpha=0.4 --evaluate_only`
 
-For EM, our code can not give the Rand F-score directly, but our code will save the ground truth and result in /checkpoints/your_experiment_id/outputs, you can use the tool ImageJ and code of http://brainiac2.mit.edu/isbi_challenge/evaluation to get Rand F-score.
+For EM, our code can not give the Rand F-score directly, but our code will save the ground truth and result in /checkpoints/your_experiment_id/outputs, you can use the tool ImageJ and code of https://imagej.net/tutorials/segmentation-evaluation-after-border-thinning to get Rand F-score.
 ## Acknowledgement
 
 This project would not have been finished without using the codes or files from the following open source projects:
