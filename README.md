@@ -26,7 +26,7 @@ This repository holds the Python implementation of the method described in the p
 
 Boheng Cao, Shikui Tu*, Lei Xu, "Flexible-CLmser: Regularized Feedback Connections for Biomedical Image Segmentation", BIBM2021
 
-![Image](https://github.com/SJTUMisaka/Flexible-CLmser/blob/main/model_1.png)
+![Image](https://github.com/SJTUMisaka/Flexible-CLmser/blob/main/model.png)
 ## Content
 
 1. [Structure](#Structure)
